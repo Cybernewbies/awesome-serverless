@@ -54,6 +54,7 @@ https://www.quora.com/What-is-serverless-computing
 * [Auth0 Webtasks](https://webtask.io) - Run code with an HTTP call. No provisioning. No deployment.
 * [Webscripts](https://www.webscript.io) - Scripting on the web.
 * [APItools](https://www.apitools.com) - Troubleshoot, Modify, Monitor API traffic.
+* [Moesif](https://www.moesif.com) - Capture, Debug, and Monitor API traffic.
 * [Surge](http://surge.sh) - Deploy static sites from the command line.
 * [Netlify](https://netlify.com) - Generate & deploy static sites from git repositories.
 * [Aerobatic](https://www.aerobatic.com) - Deploy static sites from the command line with plugins including password protection, CORS proxy, and [more](https://www.aerobatic.com/docs/plugins).
